@@ -1,7 +1,7 @@
 # Covid-19-Challenge
 
 # Project Overview:
-This project for participate in the Covid-19 Challenge by Saudi Data Community(SDC). 
+This project for participate in the Covid-19 Challenge by Saudi Data Community(SDC). #تحدي-كوفيد-١٩
 
 # Project Information:
 In this project I used PROPHET to predict the change in the next 30 days for Confirmed Cases globaly.
